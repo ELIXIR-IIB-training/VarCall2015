@@ -6,5 +6,5 @@ author: Allegra Via
 
 Introduction to the UNIX/Linux command line
 
-- compressed archive of [Unix](./Unix.tar.gz)
+- compressed archive of [Unix](./Unix.zip)
 
