@@ -9,6 +9,8 @@ Recent advances in genome sequencing technologies provide unprecedented opportun
 This repository is for the course materials and it is organised as follows:
 
 - Day 1: [Unix/Linux command line](./1-unix_command_line) 
-- Day 1: [NGS and Population Genomics](2-ngs_and_population_genomics)
-- [
-- 
+- Day 1: [NGS and Population Genomics](./2-ngs_and_population_genomics)
+- Day 2: [NGS platforms_and_dataQC](./3-ngs_platforms_and_dataQC)
+- Day 3: [Mapping and BAM refinement](./4-mapping_and_bam_refinment)
+- Day 4: [Variant Calling](./5-variant_calling)
+- Day 5: [Projects](./6-projects)
