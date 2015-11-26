@@ -8,4 +8,7 @@ Recent advances in genome sequencing technologies provide unprecedented opportun
 
 This repository is for the course materials and it is organised as follows:
 
-- [Unix/Linux command line](./Unix_command_line) 
+- Day 1: [Unix/Linux command line](./1-unix_command_line) 
+- Day 1: [NGS and Population Genomics](2-ngs_and_population_genomics)
+- [
+- 
