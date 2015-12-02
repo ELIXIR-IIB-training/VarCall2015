@@ -40,10 +40,6 @@ Characteristics of the experiment:
 
 - [IGV](https://www.broadinstitute.org/software/igv/download) is a genome visualisation tool.
 
-- [vcftools](http://vcftools.sourceforge.net/) is a set of scripts to manipulate vcf files.
-
-- [vcflib](https://github.com/ekg/vcflib) is another set of scripts to manipulate vcf files.
-
 
 ## Getting the Data
 
@@ -298,7 +294,7 @@ Be patient when you use IGV.
 
 ## Extract mtDNA from final BAM
 ```
-samtools view -o mito.bam library_final_sorted.bam Mito
+samtools view -b -o mito.bam library_final_sorted.bam Mito
 ```
 
 #### Challenge  - Index the mito bam file
